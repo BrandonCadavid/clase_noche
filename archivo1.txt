@@ -1,0 +1,4 @@
+Esta es la prueba de un archivo
+
+Prueba 1, para abri esto se ejecuta el comando vim y el nombre del archivo en la ruta
+
